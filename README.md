@@ -1,6 +1,6 @@
 # Practical Assignment 1
 Please put your name (or names if you work in a group) here:  
-**Name**: .......
+**Name**: Saurav Dahal
 ## Problem 1.1
 ### Calculate Frames-per-Second (FPS) (Points 30)
 1. Fork the current repository
@@ -18,3 +18,27 @@ MacOS users may need to launch the application with administrator right, to gran
 3. Measure the FPS one more time. How FPS changed after incorporating the face detection into the framework?
 ### Note
 Please do not copy-paste the example code from the OpenCV documentation, but try to understand the example code and implement the solution to the problem by yourself.
+
+
+#Procedure:
+```
+sudo pip3 install numpy
+```
+```
+pip3 install opencv-python
+```
+
+```
+python3 problem1.py
+python3 problem2.py
+```
+
+
+#Assignment 1
+From my computer, the normal average fps computed was around 17.
+
+#Assignment 2
+The Cascade classifier fps was also around 17 so the implementation of cascade classifier didn't change time complexity. 
+That means, cascade classifier is very effective.
+
+
