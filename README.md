@@ -41,4 +41,6 @@ From my computer, the normal average fps computed was around 17.
 The Cascade classifier fps was also around 17 so the implementation of cascade classifier didn't change time complexity. 
 That means, cascade classifier is very effective.
 
+Reference: https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
+
 
